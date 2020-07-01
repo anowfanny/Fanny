@@ -1,2 +1,2 @@
-# Fanny
+# COURSERA CAPSTONE PROJECT
 Coursera
